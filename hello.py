@@ -7,3 +7,10 @@ elif name == "ved":
 	print("you are welcome dear")
 else:
     print("Guys please check your access and please maintine slience")
+
+
+abc()
+
+
+function abc ():
+    print("You are in function abc")
