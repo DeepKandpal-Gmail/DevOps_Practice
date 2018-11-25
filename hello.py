@@ -3,5 +3,7 @@ print("Hello World , This is my First Example")
 name = input("Enter the Name:")
 if name == "deep":
 	print("You are the admin")
+elif name == "ved":
+	print("you are welcome dear")
 else:
-	print("Please check your rights  or raise request to get access")
+    print("Guys please check your access and please maintine slience")
