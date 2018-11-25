@@ -4,4 +4,4 @@ name = input("Enter the Name:")
 if name == "deep":
 	print("You are the admin")
 else:
-	print("Please check your access  or raise request to get access")
+	print("Please check your rights  or raise request to get access")
